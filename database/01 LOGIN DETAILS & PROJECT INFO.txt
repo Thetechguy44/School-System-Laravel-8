@@ -1,0 +1,32 @@
+**Log on to codeastro.com for more projects!***
+
+
+**Developed by Priya Jain**
+
+
+**Check the Website's Post Page for all the Installation Instructions**
+
+
+---Admin Login Details---
+
+Email   : admin@mail.com
+Password: 12345678
+
+---Teacher Login Details---
+
+Email   : teacher@mail.com
+Password: 12345678
+
+---Student Login Details---
+
+Email   : student@mail.com
+Password: 12345678
+
+---Parents Login Details---
+
+Email   : parent@mail.com
+Password: 12345678
+
+**Check the Website's Post Page for all the Installation Instructions**
+
+
